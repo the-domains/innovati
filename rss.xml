@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Inspiração, Inovação & Desenvolvimento]]></title>
+        <description><![CDATA[Inspiração, Inovação & Desenvolvimento]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jul 2016 22:07:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Administração Fractal]]></title>
+            <description><![CDATA[<article><h1>Administração Fractal</h1><p>Administração Fractal é um conceito inovador de administração criado pela Innovati, para organização e gestão de qualquer operação autônoma-colaborativa. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/255c743b-efbe-4479-9627-95ff50315ff2.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/255c743b-efbe-4479-9627-95ff50315ff2.png</link>
+            <guid isPermaLink="false">7a762727-f107-4b35-bdad-8492a1ec12a3</guid>
+            <pubDate>Sun, 10 Jul 2016 22:07:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

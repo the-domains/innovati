@@ -1,14 +1,25 @@
-layout_spectrum: 0.5416755313053727
 typography_spectrum: 0.49384204274974763
+content_rating:
+  adult: false
 color:
   brandStrength: 0.0021812303457409143
   lightness: 0.20234623714350164
   saturation: 0.03832378564402461
   rhythmicContrast: 0.8718584885355085
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-name: Innovati
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.5416755313053727
+author:
+  name: Cris Lindner
+  email: contato@profetasdigitais.com
+  url: www.profetasdigitais.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae326e07-0535-4158-b074-da59821787aa.png
+name: Profetas Digitais
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b37d5c0-a5aa-422a-92a1-7c3eba7b6244.png
+title: 'Inspiração, Inovação & Desenvolvimento'

@@ -20,6 +20,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae326e07-0535-4158-b074-da59821787aa.png
 name: Innovati
+navigation:
+  - name: Administração Fractal
+    id: 7a762727-f107-4b35-bdad-8492a1ec12a3
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b37d5c0-a5aa-422a-92a1-7c3eba7b6244.png
 title: 'Inspiração, Inovação & Desenvolvimento'

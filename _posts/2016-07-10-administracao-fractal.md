@@ -3,17 +3,17 @@ description: >-
   Administração Fractal é um conceito inovador de administração criado pela
   Innovati, para organização e gestão de qualquer operação
   autônoma-colaborativa. 
-dateModified: '2016-07-10T22:07:14.022Z'
-datePublished: '2016-07-10T22:07:32.194Z'
+dateModified: '2016-08-10T01:15:42.873Z'
+datePublished: '2016-08-10T01:15:43.783Z'
 title: Administração Fractal
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/255c743b-efbe-4479-9627-95ff50315ff2.png
-starred: false
 sourcePath: _posts/2016-07-10-administracao-fractal.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+publisher:
+  name: Cris Lindner
+via: {}
+starred: false
+url: administracao-fractal/index.html
 _type: MediaObject
 
 ---
